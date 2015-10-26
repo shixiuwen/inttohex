@@ -25,7 +25,6 @@ public class MainActivity extends ActionBarActivity {
                 etShiliu.setText(Integer.toHexString(Integer.parseInt(s)));
                 //git测试语句01
                 //测试其他人修改
-
             }
         });
     }
