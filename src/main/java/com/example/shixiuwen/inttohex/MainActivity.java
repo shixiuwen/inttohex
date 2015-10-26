@@ -23,7 +23,7 @@ public class MainActivity extends ActionBarActivity {
             public void onClick(View v) {
                 String s = etShi.getText().toString();
                 etShiliu.setText(Integer.toHexString(Integer.parseInt(s)));
-
+                //git测试语句01
             }
         });
     }
