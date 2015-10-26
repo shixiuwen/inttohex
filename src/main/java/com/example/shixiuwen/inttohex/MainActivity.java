@@ -30,9 +30,7 @@ public class MainActivity extends ActionBarActivity {
                 //测试其他人修改3
                 //测试自己修改3
                 //测试别人修改4(两处修改）)
-<<<<<<< HEAD
                 //别人也修改了
->>>>>>> 73edede2dff2d152a4bac1134e7866fdef848a14
             }
         });
     }
