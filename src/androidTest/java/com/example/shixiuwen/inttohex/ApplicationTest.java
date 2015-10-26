@@ -10,5 +10,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
         super(Application.class);
         //测试别人的第二处修改
+        //测试两个人修改一样的代码看能不能解决冲突
     }
 }
