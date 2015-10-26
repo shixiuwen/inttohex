@@ -26,6 +26,7 @@ public class MainActivity extends ActionBarActivity {
                 //git测试语句01
                 //测试其他人修改
                 //测试其他人修改2
+                //测试自己修改2
             }
         });
     }
