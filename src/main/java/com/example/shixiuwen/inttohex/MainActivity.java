@@ -24,6 +24,8 @@ public class MainActivity extends ActionBarActivity {
                 String s = etShi.getText().toString();
                 etShiliu.setText(Integer.toHexString(Integer.parseInt(s)));
                 //git测试语句01
+                //测试自己修改的同时别人也在修改
+
             }
         });
     }
