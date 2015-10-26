@@ -29,6 +29,7 @@ public class MainActivity extends ActionBarActivity {
                 //测试自己修改2
                 //测试其他人修改3
                 //测试自己修改3
+                //测试别人修改4(两处修改）)
             }
         });
     }
